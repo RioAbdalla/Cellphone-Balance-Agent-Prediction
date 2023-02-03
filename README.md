@@ -15,4 +15,6 @@ To determine the right amount of loan for cellphone credit agents, the Indonesia
 7. Feature evalution with Forward and backward propagation
 8. Model evalution with XGBoost
 9. Finalize Model and Feature
+## Results
+Model able to predict cellphone balance agent with available next year data. The accuracy of prediction can reach almost 90% with XGBoost and using specific feature
  
