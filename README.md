@@ -1,6 +1,6 @@
 # Cellphone Balance Agent Prediction
 ## Summary
-The data consisted of each indonesian city economical values and the administrative category. The data originated from BPS, which is accesible to the public. Multiple columns are both numerical and categorical. Numerical values are unstandarized and categorical data are not encoded.
+The data comprised each Indonesian city's economic values and the administrative category. The data originated from BPS, which is accessible to the public. Multiple columns are both numerical and categorical. Numerical values are unstandardized and categorical data are not encoded.
 ## Objective
 To determine the necessary funds to support cellphone credit agents and small local businesses, the Indonesian People’s Bank needs to predict their growth in the upcoming year.
 ## Problem Definition
